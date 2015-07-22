@@ -1,10 +1,10 @@
 <?php
 	require_once("phpmail.php");
 
-	$email_admin = "beatbox787@gmail.com";
-	// $email_admin = "soc.taxi.35@gmail.com";
+	// $email_admin = "beatbox787@gmail.com";
+	$email_admin = "nekuchaeva@gmail.com";
 
-	$from = "“Социальное такси”";
+	$from = "“Умный план”";
 	$email_from = "robot@taxi-chita.ru";
 
 	$deafult = array("name"=>"Имя","phone"=>"Телефон", "email"=>"E-mail");
